@@ -1,6 +1,8 @@
-## This can be your internal website page / project page
+## Mirror Axis Distortion: A Novel Transform and Visualization for Fold Change Data
 
-**Project description:** I developed a new transform and visualization for fold change data for use in bioinformatics research, and demonstrate it's utility with real bioinformatics datasets. This research yielded a publication and code repository implemented in R.
+<img src="images/project_mad.JPG?raw=true"/>
+<br>
+**Project description:** During my postdoctoral research, I developed a new transform and visualization for fold change data for use in bioinformatics research, and demonstrate it's utility with real bioinformatics datasets. This research yielded a publication and code repository implemented in R.
 
 **Reference Publication:** <br>
 B. A. Corliss, Y. Wang, F. P. Driscoll, H. Shakeri, P. E. Bourne, MAD-FC: A Fold Change Visualization with Readability, Proportionality, and Symmetry (2023), [doi:10.48550/arXiv.2303.10829](doi:10.48550/arXiv.2303.10829).
