@@ -1,4 +1,4 @@
-## Coding and Reasearch Portfolio
+## Coding and Research Portfolio
 
 ---
 
