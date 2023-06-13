@@ -43,7 +43,9 @@
 
 
 ### Teaching
-
+[DS2003: COmmunicating with Data (2022-F, 2023-Sp, University of Virginia)](/sample_page)
+<br>
+<img src="images/ds2003.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
