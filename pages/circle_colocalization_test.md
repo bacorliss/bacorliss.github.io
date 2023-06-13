@@ -4,7 +4,7 @@
 <br>
 **Project description:** During my graduate research, I developed a statistical hypothesis test to probe for changes in spatial interactions between two cell populations. This analysis is done on a set of biomdeical images where both cell populations are labeled. Users quantify the count of both cell types within each image, along with the number of cells that overlap between the two groups. When the user also inputs the average cell size for both populations, Monte Carlo simulations are used to determine the average fraction of cells overlapping by random chance.
 <br><br>
-<img src="https://github.com/bacorliss/bacorliss.github.io/blob/305290ebfa011fb98176587a216eba557bc59352/images/project_circoast.jpeg"/>
+<img src="https://github.com/bacorliss/bacorliss.github.io/blob/e29c876e1a491f92bb87f28f836e5b11f376232c/images/project_circoast.jpeg?raw=TRUE"/>
 <br><br>
 **Github Repository:** <br>
 [https://github.com/uva-peirce-cottler-lab/ARCAS](https://github.com/uva-peirce-cottler-lab/ARCAS)

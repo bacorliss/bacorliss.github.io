@@ -15,7 +15,6 @@
 
 **Publication:** <br>
 B. A. Corliss, R. W. Doty, C. Mathews, P. A. Yates, T. Zhang, S. M. Peirce, **REAVER: A Program for Improved Analysis of High-resolution Vascular Network Images**. Microcirculation. n/a, [doi:10.1111/micc.12618](doi:10.1111/micc.12618).
-
 <br>
 
 **Abstract:** 

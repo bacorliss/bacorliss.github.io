@@ -37,7 +37,6 @@ B. A. Corliss, T. R. Brown, T. Zhang, K. A. Janes, H. Shakeri, P. E. Bourne, **T
 -------
 **Publication:** <br>
 B. A. Corliss, Y. Wang, H. Shakeri, P. E. Bourne, **The Least Difference in Means: A Statistic for Effect Size Strength and Practical Significance** (2022), [doi:10.48550/arXiv.2205.12958](doi:10.48550/arXiv.2205.12958).
-
 <br>
 
 **Abstract:** With limited resources, scientific inquiries must be prioritized for further study, funding, and translation based on their practical significance: whether the effect size is large enough to be meaningful in the real world. Doing so must evaluate a result's effect strength, defined as a conservative assessment of practical significance. We propose the least difference in means (δL) as a two-sample statistic that can quantify effect strength and perform a hypothesis test to determine if a result has a meaningful effect size. To facilitate consensus, δL allows scientists to compare effect strength between related results and choose different thresholds for hypothesis testing without recalculation. Both δL and the relative δL outperform other candidate statistics in identifying results with higher effect strength. We use real data to demonstrate how the relative δL compares effect strength across broadly related experiments. The relative δL can prioritize research based on the strength of their results.
