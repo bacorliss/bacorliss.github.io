@@ -6,7 +6,7 @@
 
 [Mirror Axis Distortion: A Novel Transform and Visualization for Fold Change Data](/pages/mirrored_axis_distortion.md)
 <br>
-[![mad](images/project_mad.JPG?raw=true)](/pages/mirrored_axis_distortion.md)
+[![mad](images/project_mad.JPG?raw=true)](/pages/mirrored_axis_distortion.html)
 
 
 ---
