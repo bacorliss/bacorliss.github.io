@@ -1,31 +1,27 @@
-## This can be your internal website page / project page
+## CIRCOAST: A Statistical Hypothesis Test for Cellular Colocalization with Network Structures
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="https://github.com/bacorliss/bacorliss.github.io/blob/305290ebfa011fb98176587a216eba557bc59352/images/project_circoast.jpeg"/>
+<br>
+**Project description:** During my graduate research, I developed a statistical hypothesis test to probe for changes in spatial interactions between two cell populations. This analysis is done on a set of biomdeical images where both cell populations are labeled. Users quantify the count of both cell types within each image, along with the number of cells that overlap between the two groups. When the user also inputs the average cell size for both populations, Monte Carlo simulations are used to determine the average fraction of cells overlapping by random chance.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Github Repository:** <br>
+[https://github.com/bac7wj/contra](https://github.com/bac7wj/contra)
+<br><br>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
+------
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+**Publication:** <br>
+1.  B. A. Corliss, H. C. Ray, J. T. Patrie, J. Mansour, S. Kesting, J. H. Park, G. Rohde, P. A. Yates, K. A. Janes, S. M. Peirce, CIRCOAST: a statistical hypothesis test for cellular colocalization with network structures. Bioinformatics. 35, 506–514 (2019). Doi: [https://doi.org/10.1093/bioinformatics/bty638](https://doi.org/10.1093/bioinformatics/bty638).
+<br>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+**Abstract:** 
+<br>
+**Motivation**
+Colocalization of structures in biomedical images can lead to insights into biological behaviors. One class of colocalization problems is examining an annular structure (disk-shaped such as a cell, vesicle or molecule) interacting with a network structure (vascular, neuronal, cytoskeletal, organellar). Examining colocalization events across conditions is often complicated by changes in density of both structure types, confounding traditional statistical approaches since colocalization cannot be normalized to the density of both structure types simultaneously. We have developed a technique to measure colocalization independent of structure density and applied it to characterizing intercellular colocation with blood vessel networks. This technique could be used to analyze colocalization of any annular structure with an arbitrarily shaped network structure.
+<br>
+**Results**
+We present the circular colocalization affinity with network structures test (CIRCOAST), a novel statistical hypothesis test to probe for enriched network colocalization in 2D z-projected multichannel images by using agent-based Monte Carlo modeling and image processing to generate the pseudo-null distribution of random cell placement unique to each image. This hypothesis test was validated by confirming that adipose-derived stem cells (ASCs) exhibit enriched colocalization with endothelial cells forming arborized networks in culture and then applied to show that locally delivered ASCs have enriched colocalization with murine retinal microvasculature in a model of diabetic retinopathy. We demonstrate that the CIRCOAST test provides superior power and type I error rates in characterizing intercellular colocalization compared to generic approaches that are confounded by changes in cell or vessel density.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-------

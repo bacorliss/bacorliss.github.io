@@ -16,7 +16,7 @@
 ---
 [CIRCOAST: A Statistical Hypothesis Test for Cellular Colocalization with Network Structures](/pages/circle_colocalization_test.md)
 <br>
-<img src="images/proejct_circoast.jpeg?raw=true"/>
+<img src="images/project_circoast.jpeg?raw=true"/>
 
 ---
 
