@@ -1,8 +1,8 @@
-## Portfolio
+## Coding Portfolio
 
 ---
 
-### Category Name 1 
+### Data Analysis Methods and Visualization
 
 [Mirror Axis Distortion: A Novel Transform and Visualization for Fold Change Data](/sample_page)
 [Prepublished Manuscript](https://arxiv.org/abs/2303.10829)
@@ -18,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Quantification and Data Collection
 
 [REAVER: A Simple semi-automated program to analyze blood vessel network architecture in 2D images](/sample_page)
 [Manuscript](https://onlinelibrary.wiley.com/doi/full/10.1111/micc.12618)
@@ -36,6 +36,9 @@
 <img src="zen_controller_screenshot.png"/>
 
 ---
+
+
+### Teaching
 
 
 ---
