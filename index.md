@@ -6,7 +6,8 @@
 
 [Mirror Axis Distortion: A Novel Transform and Visualization for Fold Change Data](/pages/mirrored_axis_distortion.md)
 <br>
-<a href=”/pages/mirrored_axis_distortion.md“><img src="images/project_mad.JPG?raw=true"/></a>
+[![mad](images/project_mad.JPG?raw=true)](/pages/mirrored_axis_distortion.md)
+
 
 ---
 [Contra-Analysis: A Holistic Method for Analyzing Effect Size from Controlled Experiments](/pages/contra-analysis.md)
