@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Bruce A. Corliss # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Biomedical engineer with rboad background in data science, biostatistics, and bioinformatics with 15+ years of programming experiment outside of coursework.
   <br><br>
-  Second description 
+  Currently finishing a postdoctoral fellowship at the School of Data Science in the University of Virginia. My research focuses on new data visualizations for bioinformatics data and an alternative to null hypothesis significance test p-vales for analyzing controlled experiments.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/bcorliss/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://scholar.google.com/citations?user=bU_YR9UAAAAJ&hl=en">View My Google Scholar Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
