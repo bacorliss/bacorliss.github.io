@@ -1,19 +1,20 @@
 ## CIRCOAST: A Statistical Hypothesis Test for Cellular Colocalization with Network Structures
 
-<img src="https://github.com/bacorliss/bacorliss.github.io/blob/305290ebfa011fb98176587a216eba557bc59352/images/project_circoast.jpeg"/>
+
 <br>
 **Project description:** During my graduate research, I developed a statistical hypothesis test to probe for changes in spatial interactions between two cell populations. This analysis is done on a set of biomdeical images where both cell populations are labeled. Users quantify the count of both cell types within each image, along with the number of cells that overlap between the two groups. When the user also inputs the average cell size for both populations, Monte Carlo simulations are used to determine the average fraction of cells overlapping by random chance.
-
-
+<br><br>
+<img src="https://github.com/bacorliss/bacorliss.github.io/blob/305290ebfa011fb98176587a216eba557bc59352/images/project_circoast.jpeg"/>
+<br><br>
 **Github Repository:** <br>
-[https://github.com/bac7wj/contra](https://github.com/bac7wj/contra)
+[https://github.com/uva-peirce-cottler-lab/ARCAS](https://github.com/uva-peirce-cottler-lab/ARCAS)
 <br><br>
 
 
 ------
 
 **Publication:** <br>
-1.  B. A. Corliss, H. C. Ray, J. T. Patrie, J. Mansour, S. Kesting, J. H. Park, G. Rohde, P. A. Yates, K. A. Janes, S. M. Peirce, CIRCOAST: a statistical hypothesis test for cellular colocalization with network structures. Bioinformatics. 35, 506–514 (2019). Doi: [https://doi.org/10.1093/bioinformatics/bty638](https://doi.org/10.1093/bioinformatics/bty638).
+B. A. Corliss, H. C. Ray, J. T. Patrie, J. Mansour, S. Kesting, J. H. Park, G. Rohde, P. A. Yates, K. A. Janes, S. M. Peirce, CIRCOAST: a statistical hypothesis test for cellular colocalization with network structures. Bioinformatics. 35, 506–514 (2019). Doi: [https://doi.org/10.1093/bioinformatics/bty638](https://doi.org/10.1093/bioinformatics/bty638).
 <br>
 
 **Abstract:** 

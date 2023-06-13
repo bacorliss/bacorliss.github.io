@@ -1,10 +1,10 @@
 ## Contra-Analysis: A Holistic Method for Analyzing Effect Size from Controlled Experiments
 
-<img src="https://github.com/bacorliss/bacorliss.github.io/blob/ffb19f44878ad12fcdda860127fbf3c0591680d3/images/project_contra-analysis.PNG?raw=true"/>
 <br>
 **Project description:** During my postdoctoral research, I developed a new method of data analysis for controlled experiments that can be used to determine if a result has evidence for a meaningful effect size, neglgible effect size, or neither. Additionally, this process can be used to inform the selection of the thresholds for what is meaningful and nigglgible, and visualize effect size across broadly related experiments with different experiment designs, model systems, and interventions that measure the same dependent variable. This process can be used as an alternative to null hypothesis testing p-values.
-
-
+<br><br>
+<img src="https://github.com/bacorliss/bacorliss.github.io/blob/ffb19f44878ad12fcdda860127fbf3c0591680d3/images/project_contra-analysis.PNG?raw=true"/>
+<br>
 **Github Repository:** <br>
 [https://github.com/bac7wj/contra](https://github.com/bac7wj/contra)
 <br><br>

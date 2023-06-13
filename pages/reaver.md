@@ -1,10 +1,11 @@
 ## REAVER: A Simple semi-automated program to analyze blood vessel network architecture in 2D images
 
-<img src="https://bacorliss.github.io/images/project_reaver.png?raw=true"/>
+
 <br>
 **Project description:** During my graduate research, I developed a MATLAB software package to threshold and analyze biomdeical images of blood vessel networks. Since biomedical datasets are often small in size, the pipeline allowed users to view and edit the thresholded images and make changes in a semi-automated fashion to maximize quality of output metrics.
-
-
+<br><br>
+<img src="https://bacorliss.github.io/images/project_reaver.png?raw=true"/>
+<br><br>
 **Github Repository:** <br>
 [https://github.com/uva-peirce-cottler-lab/public_REAVER/issues](https://github.com/uva-peirce-cottler-lab/public_REAVER/issues)
 <br><br>
