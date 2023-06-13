@@ -1,9 +1,9 @@
 ## REAVER: A Simple semi-automated program to analyze blood vessel network architecture in 2D images
 <br>
 <br>
-<img src="https://faseb.onlinelibrary.wiley.com/cms/asset/4686d80d-7cf7-4d55-9cbc-84a2b46ea7c0/fsb2202034s102463-fig-0001-m.jpg?raw=TRUE"/>
+<img src="https://github.com/bacorliss/bacorliss.github.io/blob/7f3bb470a4dc0bf2600fca7f3b7970c88946fb05/images/project_nanoxim.png?raw=TRUE"/>
 <br>
-**Project description:** During my graduate research, I developed a MATLAB software package to analyze flourescent and phosphorescent images that can be used to monitor the oxygnation of open wounds in real time.
+**Project description:** During my graduate research, I developed a MATLAB software package to quantify oxygnation of open wounds in real time. Phorphorescnet images are acquired of the wound site while irrigated with oxygen sensing nanoparticles. The ratio of the intensity of the red to blue channels provides a stable measure of oxygenation due to their chemistry.
 <br><br>
 **Github Repository:** <br>
 [https://github.com/uva-peirce-cottler-lab/nanoxim](https://github.com/uva-peirce-cottler-lab/nanoxim)
