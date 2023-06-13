@@ -4,30 +4,38 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Mirror Axis Distortion: A Novel Transform and Visualization for Fold Change Data](/sample_page)
+[Prepublished Manuscript](https://arxiv.org/abs/2303.10829)
 <img src="images/project_mad.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Contra-Analysis: A Holistic Method for Analyzing Effect Size from Controlled Experiments](/pdf/sample_presentation.pdf)
+<img src="images/project_contra-analysis.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CIRCOAST: A Statistical Hypothesis Test for Cellular Colocalization with Network Structures](http://example.com/)
+<img src="images/proejct_circoast.jpeg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[REAVER: A Simple semi-automated program to analyze blood vessel network architecture in 2D images](/sample_page)
+[Manuscript](https://onlinelibrary.wiley.com/doi/full/10.1111/micc.12618)
+<img src="images/project_reaver.png?raw=true"/>
 
 ---
 
+[Nanoxim: User Interface to Monitor Surface Oxygenation of Open Wound in Real Time With Flourescent Nanoparticles](/sample_page)
+[Manuscript](https://onlinelibrary.wiley.com/doi/full/10.1111/micc.12618)
+<img src="project_nanoxim.png"/>
 
+---
+
+[Zen Controller: Automation Software for Zeiss Confocal Miscropes Running Zen 2008](/sample_page)
+<img src="zen_controller_screenshot.png"/>
+
+---
 
 
 ---
