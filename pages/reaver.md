@@ -1,31 +1,23 @@
-## This can be your internal website page / project page
+## REAVER: A Simple semi-automated program to analyze blood vessel network architecture in 2D images
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="https://bacorliss.github.io/images/project_reaver.png?raw=true"/>
+<br>
+**Project description:** During my graduate research, I developed a MATLAB software package to threshold and analyze biomdeical images of blood vessel networks. Since biomedical datasets are often small in size, the pipeline allowed users to view and edit the thresholded images and make changes in a semi-automated fashion to maximize quality of output metrics.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Github Repository:** <br>
+[https://github.com/uva-peirce-cottler-lab/public_REAVER/issues](https://github.com/uva-peirce-cottler-lab/public_REAVER/issues)
+<br><br>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
+------
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+**Publication:** <br>
+B. A. Corliss, R. W. Doty, C. Mathews, P. A. Yates, T. Zhang, S. M. Peirce, **REAVER: A Program for Improved Analysis of High-resolution Vascular Network Images**. Microcirculation. n/a, [doi:10.1111/micc.12618](doi:10.1111/micc.12618).
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<br>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Abstract:** 
+Alterations in vascular networks, including angiogenesis and capillary regression, play key roles in disease, wound healing, and development. The spatial structures of blood vessels can be captured through imaging, but effective characterization of network architecture requires both metrics for quantification and software to carry out the analysis in a high-throughput and unbiased fashion. We present Rapid Editable Analysis of Vessel Elements Routine (REAVER), an open-source tool that researchers can use to analyze high-resolution 2D fluorescent images of blood vessel networks, and assess its performance compared to alternative image analysis programs. Using a dataset of manually analyzed images from a variety of murine tissues as a ground-truth, REAVER exhibited high accuracy and precision for all vessel architecture metrics quantified, including vessel length density, vessel area fraction, mean vessel diameter, and branchpoint count, along with the highest pixel-by-pixel accuracy for the segmentation of the blood vessel network. In instances where REAVER's automated segmentation is inaccurate, we show that combining manual curation with automated analysis improves the accuracy of vessel architecture metrics. REAVER can be used to quantify differences in blood vessel architectures, making it useful in experiments designed to evaluate the effects of different external perturbations (eg, drugs or disease states).
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-------
