@@ -1,31 +1,32 @@
-## This can be your internal website page / project page
+## REAVER: A Simple semi-automated program to analyze blood vessel network architecture in 2D images
+<br>
+<br>
+<img src="https://faseb.onlinelibrary.wiley.com/cms/asset/4686d80d-7cf7-4d55-9cbc-84a2b46ea7c0/fsb2202034s102463-fig-0001-m.jpg?raw=TRUE"/>
+<br>
+**Project description:** During my graduate research, I developed a MATLAB software package to analyze flourescent and phosphorescent images that can be used to monitor the oxygnation of open wounds in real time.
+<br><br>
+**Github Repository:** <br>
+[https://github.com/uva-peirce-cottler-lab/nanoxim](https://github.com/uva-peirce-cottler-lab/nanoxim)
+<br><br>
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+------
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Publication:** <br>
+A. C. Bruce, M. Zhuang, C. A. DeRosa, B. A. Corliss, C. L. Fraser, S. M. Peirce, **Improved Difluoroboron β-Diketonate Poly(lactic acid) Nanoparticles for Monitoring Wound Oxygenation**. The FASEB Journal. 34, 1–1 (2020).
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<br>
 
-### 2. Assess assumptions on which statistical inference will be based
+**Abstract:** 
+We have previously demonstrated the ability of a difluoroboron β-diketonate poly(lactic acid) material, BF2nbm(I)PLA, hereafter nbm, to detect tissue oxygen levels in murine cutaneous wound beds 1. This relies on oxygen-insensitive fluorescence (F) as an internal standard and oxygen-sensitive phosphorescence (P) as a sensor. In an effort to improve imaging agent clearance and ease of manufacture, as well as to optimize emission wavelengths to color channels of RGB cameras, a new dithienyl dye, BF2dtm(I)C12H25-, hereafter dtm, with red phosphorescence was developed. The dtm dye was mixed with a blue fluorescent dye, BF2dbm(F)OCH12H25, hereafter dbm, and coprecipitated with PLA to form oxygen sensing nanoparticles.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The objective of this study was to verify the utility of the newly developed dtm/dbm nanoparticles for sensing tissue oxygen levels in murine wound beds. To achieve this, we monitored the relative tissue oxygen levels of healing full-thickness cutaneous wounds in C57BL/6J mice over the course of one week with both dtm/dbm and nbm using an RGB camera mounted to a microscope and custom MATLAB software.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+We found the new dtm/dbm nanoparticles yielded nearly identical trends over time in wound bed F/P versus nbm. The dtm/dbm nanoparticles did not impair wound closure and demonstrated less adhesion to healing tissues relative to nbm. Dtm/dbm retains the tissue oxygen-sensing capability of nbm while having fewer synthetic steps, better phosphorescence alignment with red RGB channel, improved solubility, and less retention in wound tissue than nbm.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="https://faseb.onlinelibrary.wiley.com/cms/asset/4686d80d-7cf7-4d55-9cbc-84a2b46ea7c0/fsb2202034s102463-fig-0001-m.jpg?raw=TRUE"/>
+<br><br>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-------
