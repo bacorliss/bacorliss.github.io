@@ -17,7 +17,7 @@
 ---
 [CIRCOAST: A Statistical Hypothesis Test for Cellular Colocalization with Network Structures](/pages/circle_colocalization_test.md)
 <br>
-[![circoast](images/images/project_circoast.jpeg?raw=true)](/pages/circle_colocalization_test.html)
+[![circoast](images/project_circoast.jpeg?raw=true)](/pages/circle_colocalization_test.html)
 
 
 ---
@@ -44,7 +44,6 @@
 ### Teaching
 [DS2003: COmmunicating with Data (2022-F, 2023-Sp, University of Virginia)](/pages/ds2003.md)
 <br>
-<a href=”/pages/ds2003.md“><img src="images/ds2003.png?raw=true"/></a>
 [![ds2003](images/ds2003.png?raw=true)](/pages/ds2003.html)
 
 <br>
