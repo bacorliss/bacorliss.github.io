@@ -1,6 +1,6 @@
 ## Mirror Axis Distortion: A Novel Transform and Visualization for Fold Change Data
 
-<img src="images/project_mad.JPG?raw=true"/>
+<img src="https://github.com/bacorliss/bacorliss.github.io/blob/ffb19f44878ad12fcdda860127fbf3c0591680d3/images/project_mad.JPG?raw=true"/>
 <br>
 **Project description:** During my postdoctoral research, I developed a new transform and visualization for fold change data for use in bioinformatics research, and demonstrate it's utility with real bioinformatics datasets. This research yielded a publication and code repository implemented in R.
 
