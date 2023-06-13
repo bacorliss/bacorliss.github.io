@@ -9,7 +9,7 @@
 <img src="images/project_mad.JPG?raw=true"/>
 
 ---
-[Contra-Analysis: A Holistic Method for Analyzing Effect Size from Controlled Experiments](/pdf/sample_presentation.pdf)
+[Contra-Analysis: A Holistic Method for Analyzing Effect Size from Controlled Experiments](/pages/mirrored_axis_distortion.md)
 <br>
 <img src="images/project_contra-analysis.PNG?raw=true"/>
 
