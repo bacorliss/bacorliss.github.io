@@ -14,7 +14,7 @@
 ------
 
 **Publication:** <br>
-B. A. Corliss, H. C. Ray, J. T. Patrie, J. Mansour, S. Kesting, J. H. Park, G. Rohde, P. A. Yates, K. A. Janes, S. M. Peirce, CIRCOAST: a statistical hypothesis test for cellular colocalization with network structures. Bioinformatics. 35, 506–514 (2019). Doi: [https://doi.org/10.1093/bioinformatics/bty638](https://doi.org/10.1093/bioinformatics/bty638).
+**B. A. Corliss**, H. C. Ray, J. T. Patrie, J. Mansour, S. Kesting, J. H. Park, G. Rohde, P. A. Yates, K. A. Janes, S. M. Peirce, **CIRCOAST: a statistical hypothesis test for cellular colocalization with network structures**. Bioinformatics. 35, 506–514 (2019). Doi: [https://doi.org/10.1093/bioinformatics/bty638](https://doi.org/10.1093/bioinformatics/bty638).
 <br>
 
 **Abstract:** 
