@@ -4,7 +4,7 @@
 
 ### Data Analysis Methods and Visualization
 
-[Evaluating Pericyte Marker Discovery Through Single Cell RNA-Seq from the Tabula Muris Atlas](/pages/pericyte_scRNA_report.html)
+[Evaluating Pericyte Marker Discovery Through Single Cell RNA-Seq From Tabula Muris](/pages/pericyte_scRNA_report.html)
 <br>
 [![mad](images/project_pericyte_scRNA.png?raw=true)](/pages/pericyte_scRNA_report.html)
 
