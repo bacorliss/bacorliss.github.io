@@ -4,6 +4,11 @@
 
 ### Data Analysis Methods and Visualization
 
+[Evaluating Pericyte Marker Discovery Through Single Cell RNA-Seq from the Tabula Muris Atlas](/pages/pericyte_scRNA_report.html)
+<br>
+[![mad](images/project_pericyte_scRNA.png?raw=true)](/pages/pericyte_scRNA_report.html)
+
+---
 [Mirror Axis Distortion: A Novel Transform and Visualization for Fold Change Data](/pages/mirrored_axis_distortion.md)
 <br>
 [![mad](images/project_mad.JPG?raw=true)](/pages/mirrored_axis_distortion.html)
