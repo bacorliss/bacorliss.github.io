@@ -34,11 +34,6 @@
 [![reaver](images/project_reaver.png?raw=true)](/pages/reaver.html)
 ---
 
-[Nanoxim: User Interface to Monitor Surface Oxygenation of Open Wound in Real Time With Flourescent Nanoparticles](/pages/nanoxim.md)
-[![nanoxim](images/project_nanoxim.png?raw=true)](/pages/nanoxim.html)
-
----
-
 [Zen Controller: Automation Software for Zeiss Confocal Miscropes Running Zen 2008](/pages/zen_controller.md)
 <br>
 [![zen](images/zen_controller_screenshot.png?raw=true)](/pages/zen_controller.html)
